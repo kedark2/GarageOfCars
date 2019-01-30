@@ -1,0 +1,5 @@
+c:\users\kanel\documents\visual studio 2010\Projects\Classes\Classes\bin\Debug\Classes.exe
+c:\users\kanel\documents\visual studio 2010\Projects\Classes\Classes\bin\Debug\Classes.pdb
+c:\users\kanel\documents\visual studio 2010\Projects\Classes\Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kanel\documents\visual studio 2010\Projects\Classes\Classes\obj\x86\Debug\Classes.exe
+c:\users\kanel\documents\visual studio 2010\Projects\Classes\Classes\obj\x86\Debug\Classes.pdb
